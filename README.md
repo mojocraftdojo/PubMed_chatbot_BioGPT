@@ -1,5 +1,5 @@
 # PubMed / BioGPT Chatbot 
-This is a web application that allows you to interact with large language model Bio-GPT to query PubMed - a extensive and comprehensive biomedical literature knowledge database. This application not only aims at provide answers to queries but also helps researches to explore potential subtle relationships.
+This is a web application that allows you to interact with large language model Bio-GPT to query PubMed,which is an extensive and comprehensive biomedical literature knowledge database. This application not only aims at providing various context-based answers to targeted queries but also helping researches to explore potential subtle relationships.
 
 ### Installation
 ```
