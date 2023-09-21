@@ -1,8 +1,8 @@
-streamlit=1.26.0
-streamlit_chat=0.1.1
-transformers=4.33.2
-einops=0.6.1
-accelerate=0.23.0
-torch=2.0.1
-sacremoses=0.0.53
-xformers=0.0.21
+streamlit==1.26.0
+streamlit_chat==0.1.1
+transformers==4.33.2
+einops==0.6.1
+accelerate==0.23.0
+torch==2.0.1
+sacremoses==0.0.53
+xformers==0.0.21
