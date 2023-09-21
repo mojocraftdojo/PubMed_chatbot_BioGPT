@@ -11,10 +11,13 @@ pip install -r requirements.txt
 - Enter a keyword or a seed query in the text box and press enter to receive gap-fill responses
 - When "Exploration mode" is turned on, new responses will be generated for each query rerun to explore more diverse and interesting answers
 
-### Example query:
+#### Example queries and answers :
  - Inflammation related gene include
  - FN1 vs CRC neoplasm
  - TP53 
  
+ ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo_1.png "demo1")
+ ![Q2](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo2.png "demo2")
+
  
  
