@@ -16,11 +16,12 @@ set_seed(random_seed)
 
 XFORMERS_MORE_DETAILS=1
 
+
 model = BioGptForCausalLM.from_pretrained("microsoft/biogpt")
 tokenizer = BioGptTokenizer.from_pretrained("microsoft/biogpt")
 generator = pipeline("text-generation",model=model,tokenizer=tokenizer)
 
-
+@st.cache_resource
 def generate_response(prompt):
     message = generator(
         prompt,
