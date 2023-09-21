@@ -1,11 +1,11 @@
 streamlit
 streamlit_chat
-torch
+#torch
 transformers
 einops
 accelerate
-neo4j
-langchain
-openai
+#neo4j
+#langchain
+#openai
 sacremoses
 xformers
