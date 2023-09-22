@@ -47,7 +47,7 @@ model = st.radio(
 
 if model == 'PubMed mining and question-answering tool':    
     st.text("PubMed is a free, extensive online database of medical and life sciences articles.")
-    st.markdown("**Example query**: IL-6; TP53 is, Inflammation related genes include, etc. The query box will appear shortly.")
+    st.markdown("**Example query**: IL-6; TP53 is; Inflammation related genes include, etc. The query box will appear shortly.")
     from biogpt import *
 else:
     import numpy
