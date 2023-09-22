@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ### Live Tool URL : 
 - This AI chatbot has been deployed to google cloud and currently hosted on GCP for demo purpose. You can try it out live at [here] (http://34.23.165.128:8501/) 
 
-#### Example queries and answers :
+### Example queries and answers :
  - Inflammation related gene include
  - FN1 vs CRC neoplasm
  - TP53 
