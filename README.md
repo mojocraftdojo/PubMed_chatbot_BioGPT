@@ -16,7 +16,7 @@ pip install -r requirements.txt
  - FN1 vs CRC neoplasm
  - TP53 
  
- ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo_1.png "demo1")
+ ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo1.png "demo1")
  ![Q2](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo2.png "demo2")
 
  
