@@ -12,7 +12,7 @@ pip install -r requirements.txt
 - When "Exploration mode" is turned on, new responses will be generated for each query rerun to explore more diverse and interesting answers
 
 ### Live Tool URL : 
-- This biomedical AI chatbot was packaged and deployed to google cloud and currently hosted on GCP for demo purpose. You can try it out live at here. [click link](http://34.23.165.128:8501/) 
+- This biomedical AI chatbot was packaged and deployed to google cloud and currently hosted on GCP for demo purpose. You can try it out live at here. [click here](http://34.23.165.128:8501/) 
 
 ### Example queries and answers :
  - Inflammation related gene include
