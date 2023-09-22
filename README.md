@@ -1,4 +1,4 @@
-# PubMed chatbot based on BioGPT
+# PubMed knowledgebase chatbot based on BioGPT
 This chatbot web application allows you to interact with large language model Bio-GPT to query PubMed,which is an extensive and comprehensive biomedical literature knowledge database. This application not only aims at providing various context-based answers to targeted queries but also helping researches to explore potential subtle relationships.
 
 ### More about BioGPT:
