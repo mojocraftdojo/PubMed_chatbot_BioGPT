@@ -1,5 +1,5 @@
 # PubMed Chatbot based on BioGPT
-This is a web application that allows you to interact with large language model Bio-GPT to query PubMed,which is an extensive and comprehensive biomedical literature knowledge database. This application not only aims at providing various context-based answers to targeted queries but also helping researches to explore potential subtle relationships.
+This chatbot web application allows you to interact with large language model Bio-GPT to query PubMed,which is an extensive and comprehensive biomedical literature knowledge database. This application not only aims at providing various context-based answers to targeted queries but also helping researches to explore potential subtle relationships.
 
 ### More about BioGPT:
 BioGPT is a generative pre-trained transformer for biomedical text generation and mining developed by microsoft. The original paper about it can be found here if you are interested in more details. [click here](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511?redirectedFrom=fulltext)
