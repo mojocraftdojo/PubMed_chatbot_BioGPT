@@ -3,13 +3,24 @@ import streamlit as st
 from streamlit_chat import message
 
 
+
 st.set_page_config(
     page_title="Biomedical Literature Research Tools"
 )
 st.header("Biomedical Literature LLM Chatbot")
-st.sidebar.header("USAGE INSTRUCTIONS")
+st.sidebar.header("**How to use this app?**")
+
+st.markdown("""
+<style>
+    [data-testid=stSidebar] {
+        background-color: #F2F3F4;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+st.sidebar.markdown("Admin: **mojocraftdojo**")
 st.sidebar.info(
-    '''This is a web app that allows you to interact with the 
+    '''This web app allows you to interact with the 
     BioGPT chatbot trained on large-scale biomedical literature.
     Welcome to try any scientific terms or questions that interest you.
     '''
@@ -19,6 +30,8 @@ st.sidebar.info('''Enter a keyword or a short seed question in the text box and 
 
 st.sidebar.info('''BioGPT Exploration mode is turned ON. So new responses will be generated for each query rerun.''')
 
+
+
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
 
@@ -27,15 +40,14 @@ if 'past' not in st.session_state:
 
 
 model = st.radio(
-    "What task would you like to perform?",
+    "Select the tool to perform tasks",
     ['PubMed mining and question-answering tool']
     )
 
 
 if model == 'PubMed mining and question-answering tool':    
     st.text("PubMed is a free, extensive online database of medical and life sciences articles.")
-    st.text("Loading... The query box will appear shortly. Please enter your query after that.")
-    st.text("Example query: IL-6; TP53 is, Inflammation related genes include; etc")
+    st.markdown("**Example query**: IL-6; TP53 is, Inflammation related genes include, etc. The query box will appear shortly.")
     from biogpt import *
 else:
     import numpy

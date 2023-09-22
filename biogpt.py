@@ -33,6 +33,6 @@ def generate_response(prompt):
 
 
 def get_text():
-    input_text = st.text_input("Your query: ","", key="input")
+    input_text = st.text_input("Type your query below: ","", key="input")
     return input_text 
 
