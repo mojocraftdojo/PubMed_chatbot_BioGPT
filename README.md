@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
  --The graphical user interface (GUI) for this biomedical AI chatbot has been created using Streamlit, chosen for its efficiency in rapid prototyping.
 
-   The webapp has been packaged and deployed to Google Cloud and currently hosted on GCP. You can try it out here. [Live Demo Link](http://34.23.165.128:8501/) 
+   The chatbot app has been packaged and deployed to Google Cloud and currently hosted on GCP. You can try it out here. [Live Demo Link](http://34.23.165.128:8501/) 
 
    Please note, the application is currently hosted on a spot instance for demonstration purpose, which means it may experience occasional shutdowns. However, please feel free to return at any time to revisit it.
 
