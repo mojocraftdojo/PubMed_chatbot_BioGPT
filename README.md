@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 
 
-### **Live Demo Tool Web URL** : 
+## **Live Demo Tool Web URL** : 
 
    The graphical user interface (GUI) for this biomedical AI chatbot was created using Streamlit, chosen for its efficiency in rapid prototyping.
 
@@ -33,15 +33,16 @@ pip install -r requirements.txt
 
 
 
+
 ### Example queries and answers :
  - Inflammation related gene include
  - FN1 vs CRC neoplasm
  - TP53 
  
+ 
  **---------------------------------------------------------------------------------------**
  
- [Chatbot webapp Live Demo](http://34.23.165.128:8501/) 
- 
+  
  
  ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo1.png "demo1")
  ![Q2](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo2.png "demo2")
