@@ -31,6 +31,8 @@ The application is currently hosted on a spot instance for demonstration purpose
  - FN1 vs CRC neoplasm
  - TP53 
  
+ **------------------------**
+ 
  ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo1.png "demo1")
  ![Q2](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo2.png "demo2")
 
