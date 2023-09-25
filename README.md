@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - When "Exploration mode" is turned on, new responses may be generated for each query rerun to explore more diverse and interesting answers
 
 
-### Example queries and answers :
+### Examples:
  - Inflammation related gene include
  - FN1 vs CRC neoplasm
  - TP53 
