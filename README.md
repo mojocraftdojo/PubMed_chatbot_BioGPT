@@ -35,7 +35,7 @@ pip install -r requirements.txt
  
  **---------------------------------------------------------------------------------------**
  
- [Live Demo Webapp](http://34.23.165.128:8501/) 
+ [Chatbot webapp Live Demo](http://34.23.165.128:8501/) 
  
  
  ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo1.png "demo1")
