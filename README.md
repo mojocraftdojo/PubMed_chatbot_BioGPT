@@ -22,8 +22,10 @@ pip install -r requirements.txt
 - When "Exploration mode" is turned on, new responses will be generated for each query rerun to explore more diverse and interesting answers
 
 ### **Live Demo Tool Web URL** : 
-- This biomedical AI chatbot has been packaged and deployed to Google Cloud and currently hosted on GCP. You can try it out here. [Web DEMO](http://34.23.165.128:8501/) 
-The application is currently hosted on a spot instance for demonstration purposes, which means it may experience occasional shutdowns. However, please feel free to return at any time to revisit it.
+- This biomedical AI chatbot has been packaged and deployed to Google Cloud and currently hosted on GCP. You can try it out here. [Live Demo Link](http://34.23.165.128:8501/) 
+
+   Please note, the application is currently hosted on a spot instance for demonstration purposes, which means it may experience occasional shutdowns. However, please feel free to return at any time to revisit it.
+
 
 
 ### Example queries and answers :
@@ -33,7 +35,7 @@ The application is currently hosted on a spot instance for demonstration purpose
  
  **---------------------------------------------------------------------------------------**
  
- Web GUI
+ [Live Demo Link](http://34.23.165.128:8501/) 
  
  
  ![Q1](https://github.com/mojocraftdojo/pubmed_chatbot_llm/blob/main/UI_demo1.png "demo1")
