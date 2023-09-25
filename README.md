@@ -22,9 +22,10 @@ pip install -r requirements.txt
 - When "Exploration mode" is turned on, new responses will be generated for each query rerun to explore more diverse and interesting answers
 
 
+
 ### **Live Demo Tool Web URL** : 
 
- --The graphical user interface (GUI) for this biomedical AI chatbot has been created using Streamlit, chosen for its efficiency in rapid prototyping.
+   The graphical user interface (GUI) for this biomedical AI chatbot has been created using Streamlit, chosen for its efficiency in rapid prototyping.
 
    The web application has been carefully packaged and deployed on Google Cloud, where it is currently being hosted. You are welcome to give it a try by following this link [Live Demo Link](http://34.23.165.128:8501/) 
 
