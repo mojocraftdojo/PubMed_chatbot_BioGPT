@@ -19,8 +19,14 @@ pip install -r requirements.txt
 
 ### How to use?
 - Enter a keyword or a seed query in the text box and press enter to receive gap-fill responses
-- When "Exploration mode" is turned on, new responses will be generated for each query rerun to explore more diverse and interesting answers
+- When "Exploration mode" is turned on, new responses may be generated for each query rerun to explore more diverse and interesting answers
 
+
+### Example queries and answers :
+ - Inflammation related gene include
+ - FN1 vs CRC neoplasm
+ - TP53 
+ 
 
 
 ## **Live Demo Tool Web URL** : 
@@ -31,14 +37,6 @@ pip install -r requirements.txt
 
    Please note, the application is currently hosted on a spot instance for demonstration purpose, which means it may experience occasional shutdowns. However, please feel free to return at any time to revisit it once it's back online.
 
-
-
-
-### Example queries and answers :
- - Inflammation related gene include
- - FN1 vs CRC neoplasm
- - TP53 
- 
  
  **---------------------------------------------------------------------------------------**
  
