@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
    This application has been carefully packaged and deployed on Google Cloud, where it is currently being hosted. You are welcome to give it a try by following this link ([LIVE DEMO](http://34.23.165.128:8501/)) 
 
-   Please note, the application is currently hosted on a spot instance for demonstration purpose, which means it may experience occasional shutdowns. However, please feel free to return at any time to revisit it once it's back online.
+   Please note, the application is currently hosted on a spot instance for demo purpose only, which means it may experience periodical maintenance shutdowns. However, please feel free to return to revisit once it's back online.
 
  
  **---------------------------------------------------------------------------------------**
