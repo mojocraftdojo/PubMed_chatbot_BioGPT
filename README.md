@@ -29,7 +29,7 @@ pip install -r requirements.txt
  
 
 
-## **Web GUI** : 
+## **Apps Web GUI** : 
 
    The graphical user interface (GUI) for this biomedical AI chatbot was created using Streamlit, chosen for its efficiency in rapid prototyping.
 
