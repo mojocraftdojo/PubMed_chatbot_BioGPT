@@ -29,11 +29,11 @@ pip install -r requirements.txt
  
 
 
-## **Live Demo Tool Web URL** : 
+## **Web GUI** : 
 
    The graphical user interface (GUI) for this biomedical AI chatbot was created using Streamlit, chosen for its efficiency in rapid prototyping.
 
-   This application has been carefully packaged and deployed on Google Cloud, where it is currently being hosted. You are welcome to give it a try by following this link ([LIVE DEMO](http://34.23.165.128:8501/)) . Please note, the application is currently hosted on a spot instance for demo purpose only, which means it may experience periodical maintenance shutdowns. However, please feel free to return to revisit once it's back online.
+   This application has been tested and successfully deployed both locally and on the cloud. Below is a snapshot showcasing the appearance of the chatbot GUI when accessed through a web browser.
 
  
  **---------------------------------------------------------------------------------------**
